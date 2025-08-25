@@ -17,10 +17,10 @@ In this project, we:
 
 ## 📂 Project Structure
 ```
-├── Music Genre Classification with PCA - Project.ipynb   # Main Jupyter Notebook
-├── data/                                                 # Dataset folder (if applicable)
-├── models/                                               # Trained model files (optional)
-└── README.md                                             # Project documentation
+├── Music Genre Classification with PCA - Project.ipynb                 # Main Jupyter Notebook
+├── music_dataset_mod.csv                                               # Dataset
+├── Music Data Legend.xlsx                                              # The dataset consists of information about various music tracks and their characteristics.
+└── README.md                                                           # Project documentation
 ```
 
 ---
